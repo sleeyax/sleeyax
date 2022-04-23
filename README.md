@@ -4,7 +4,7 @@ Nice to see you on my GitHub profile.
 ## :question: About Me
 I'm a part time freelancer with experience in a wide range of fields. I don't tend to stick to one programming language or stack in particular; I love to think about architecture, quality of code, project requirements, performance etc. in order to make an informed decision on which tech stack suites a project best. 
 
-I'm always open to short term project offers, shoot me a DM on twitter or send me an email :)
+I'm always open to short term project offers, shoot me a DM on twitter or [send me an email](mailto:yourd3veloper@gmail.com) :)
 
 ## 💻 Projects and Companies
 
