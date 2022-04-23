@@ -6,7 +6,7 @@ I'm a part time freelancer with experience in a wide range of fields. I don't te
 
 I'm always open to short term project offers, shoot me a DM on twitter or send me an email :)
 
-## Projects and Companies
+## 💻 Projects and Companies
 
 ### Current
 - [Infinity NFT marketplace](https://infinity.xyz/) web application to buy and sell digital assets based on blockchain technologies
