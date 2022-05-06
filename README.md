@@ -1,14 +1,14 @@
 # :wave: Hello World
-Nice to see you on my GitHub profile.
+Welcom to the GitHub profile of a Software Engineer with a dragon profile picture!
 
 ## :question: About Me
-I'm a part time freelancer with experience in a wide range of fields. I don't tend to stick to one programming language or stack in particular; I love to think about architecture, quality of code, project requirements, performance etc. in order to make an informed decision on which tech stack suites a project best. 
+I'm a part time Software Engineer with experience in a wide range of fields. I don't tend to stick to one programming language or stack in particular; I love to think about architecture, quality of code, project requirements, performance etc. in order to make an informed decision on which tech stack suites a project best. 
 
 I'm always open to short term project offers, shoot me a DM on twitter or [send me an email](mailto:yourd3veloper@gmail.com) :)
 
 ## 💻 Projects and Companies
 
-### Current
+### Present
 - [Infinity NFT marketplace](https://infinity.xyz/) web application to buy and sell digital assets based on blockchain technologies
 
 ### Past
