@@ -17,4 +17,10 @@ I'm always open to short term project offers, shoot me a DM on twitter or [send 
 - [Stremio](https://www.stremio.com/) media player & content aggregator
 
 ## :chart_with_upwards_trend:  Stats
-[![Sleeyax's github stats](https://github-readme-stats.vercel.app/api?username=sleeyax&count_private=true&show_icons=true&hide_title=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+**Overview**
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=sleeyax&count_private=true&show_icons=true&hide_title=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+**Trophies**
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=sleeyax&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
