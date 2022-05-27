@@ -9,7 +9,7 @@ I'm always open to short term project offers, shoot me a DM on twitter or [send 
 ## 💻 Projects and Companies
 
 ### Present
-- [Infinity NFT marketplace](https://infinity.xyz/) web application to buy and sell digital assets on the blockchain
+- [Infinity NFT marketplace](https://twitter.com/infinitydotxyz) web application to buy and sell digital assets on the blockchain
 
 ### Past
 - [Cybersole](https://twitter.com/CyberSole) AIO web automation software (a.k.a bot) to buy items (shoes, clothing, collectibles) online
