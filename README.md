@@ -4,7 +4,7 @@ Welcom to the GitHub profile of a Software Engineer with a dragon profile pictur
 ## :question: About Me
 I'm a part time Software Engineer with experience in a wide range of fields. I don't tend to stick to one programming language or stack in particular; I love to think about architecture, quality of code, project requirements, performance etc. in order to make an informed decision on which tech stack suites a project best. 
 
-I'm always open to short term project offers, shoot me a DM on twitter or [send me an email](mailto:yourd3veloper@gmail.com) :)
+I'm always open to project offers, shoot me a DM on [twitter](https://twitter.com/sleeyax) or [send me an email](mailto:yourd3veloper@gmail.com) :)
 
 ## 💻 Projects and Companies
 
@@ -12,9 +12,15 @@ I'm always open to short term project offers, shoot me a DM on twitter or [send 
 - [Infinity NFT marketplace](https://twitter.com/infinitydotxyz) web application to buy and sell digital assets on the blockchain
 
 ### Past
-- [Cybersole](https://twitter.com/CyberSole) AIO web automation software (a.k.a bot) to buy items (shoes, clothing, collectibles) online
-- [Ignite](https://twitter.com/lgnite) another AIO bot
+- [Cybersole](https://twitter.com/CyberSole) AIO (All In One) web automation software to automatically purchase online items (shoes, clothing, collectibles)
+  - Wrote and maintained site modules
+  - Reverse engineered all kinds of antibot and WAFs - including mobile versions
+- [Ignite](https://twitter.com/lgnite) another AIO bot company 
+  - Rewrote most of the code base from JavaScript spaghetti code to a modular TypeScript codebase and migrated from plain CSS to SCSS modules
 - [Stremio](https://www.stremio.com/) media player & content aggregator
+  - Built plenty of [addons](https://github.com/sleeyax/stremio-addons) for the platform and moderated the [r/StremioAddons](https://www.reddit.com/r/stremioaddons) community
+  - Built an [unofficial SDK](https://github.com/sleeyax/stremio-addon-sdk) in Rust
+- [Fiverr](https://www.fiverr.com/sleeyax) where it all began...
 
 ## :chart_with_upwards_trend:  Stats
 **Overview**
