@@ -19,7 +19,7 @@ I'm always open to new opportunities, shoot me a DM on [twitter](https://twitter
   - Reverse engineered all kinds of antibot and WAFs - including mobile versions
 - [Ignite](https://twitter.com/lgnite) another AIO bot company 
   - Rewrote most of the codebase from JavaScript spaghetti code to a modular TypeScript codebase and migrated from plain CSS to SCSS modules
-- [Stremio](https://www.stremio.com/) media player & content aggregator
+- [Stremio Community](https://www.stremio.com/) media player & content aggregator
   - Built plenty of [addons](https://github.com/sleeyax/stremio-addons) for the platform and moderated the [r/StremioAddons](https://www.reddit.com/r/stremioaddons) community
   - Built an [unofficial SDK](https://github.com/sleeyax/stremio-addon-sdk) in Rust
 - [Fiverr](https://www.fiverr.com/sleeyax) where it all began...
