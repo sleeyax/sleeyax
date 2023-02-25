@@ -1,4 +1,4 @@
-**Don't fall victim to impersonation attempts. Proof that it's really me [here](https://gist.github.com/sleeyax/9a11e158f3313826eb75ace6afee23d2).**
+**Don't fall victim to impersonation attempts. Verify my identity [here](https://gist.github.com/sleeyax/9a11e158f3313826eb75ace6afee23d2).**
 
 # :wave: Hello World
 Welcome to the GitHub profile of a Software Engineer with a dragon profile picture!
