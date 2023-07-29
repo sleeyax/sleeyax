@@ -1,7 +1,7 @@
 **Don't fall victim to impersonation attempts. Verify my identity [here](https://gist.github.com/sleeyax/9a11e158f3313826eb75ace6afee23d2).**
 
 # :wave: Hello World
-Welcome to the GitHub profile of a Software Engineer with a dragon profile picture!
+Welcome to my GitHub profile!
 
 ## :question: About Me
 I'm a part time Software Engineer with experience in a wide range of fields. I don't tend to stick to one programming language or stack in particular; I love to think about architecture, quality of code, project requirements, performance etc. in order to make an informed decision on which tech stack suites a project best. 
