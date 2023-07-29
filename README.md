@@ -15,7 +15,7 @@ I'm always open to new opportunities, shoot me a DM on [twitter](https://twitter
   - Building a fresh mobile app for Android and iOS in Kotlin!
 
 ### Past
-- [Flow NFT marketplace](https://twitter.com/flowdotso) (formerly known as infinity.xyz) marketplace to purchase and sell digital assets on the blockchain
+- [Pixl NFT marketplace](https://twitter.com/pixlso) (formerly known as flow.so and infinity.xyz) to trade digital assets on the ETH blockchain
 - [Cybersole](https://twitter.com/CyberSole) AIO (All In One) web automation software to automatically purchase online items (shoes, clothing, collectibles)
   - Wrote and maintained site modules
   - Reverse engineered all kinds of antibot and WAFs - including mobile versions
