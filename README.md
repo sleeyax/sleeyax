@@ -1,18 +1,19 @@
 **Don't fall victim to impersonation attempts. Verify my identity [here](https://gist.github.com/sleeyax/9a11e158f3313826eb75ace6afee23d2).**
 
-# :wave: Hello World
-Welcome to my GitHub profile!
-
 ## :question: About Me
-I'm a part time Software Engineer with experience in a wide range of fields. I don't tend to stick to one programming language or stack in particular; I love to think about architecture, quality of code, project requirements, performance etc. in order to make an informed decision on which tech stack suites a project best. 
+I'm a Full Stack Software Engineer who loves to both break and build the web. Ever since I started programming I've had a particular interest in web scraping, automation, bots and security for which I've grown an expertise. Some may recognize me from my contributions in a time where sneaker bots were still cool (see projects below). The other side of me loves to develop web applications from scratch with whatever tech stack suits a project best.
 
-I'm always open to new opportunities, shoot me a DM on [twitter](https://twitter.com/sleeyax) or [send me an email](mailto:yourd3veloper@gmail.com) with your project offer :) 
+Besides my main occupation, I also have an interest in other fields such as but not limited to cross-platform mobile app development, reverse engineering, GNU/Linux, Containers, DevOps and cloud.
+
+If you'd like to **hire me** or if you're **looking for a partner** for your next project, check out [my socials](#Socials) and shoot me a DM.
 
 ## 💻 Projects and Companies
 
 ### Present
 - [Stremio](https://www.stremio.com/) media player & content aggregator
   - Building a fresh mobile app for Android and iOS in Kotlin!
+- Secret project (by me and snkr friend) 😏
+  - All in one Snapchat automation suite for OF marketing 
 
 ### Past
 - [Pixl NFT marketplace](https://twitter.com/pixlso) (formerly known as flow.so and infinity.xyz) to trade digital assets on the ETH blockchain
@@ -25,6 +26,15 @@ I'm always open to new opportunities, shoot me a DM on [twitter](https://twitter
   - Built plenty of [addons](https://github.com/sleeyax/stremio-addons) for the platform and moderated the [r/StremioAddons](https://www.reddit.com/r/stremioaddons) community
   - Built an [unofficial SDK](https://github.com/sleeyax/stremio-addon-sdk) in Rust
 - [Fiverr](https://www.fiverr.com/sleeyax) where it all began...
+
+## :wave: Socials
+You can reach out to me via one of the following channels: 
+- [Twitter](https://twitter.com/sleeyax)
+- [Email](mailto:yourd3veloper@gmail.com)
+- Discord: `sleeyax`
+- Telegram: `sleeyax`
+
+**Please email me if your inquiry is urgent.**
 
 ## :chart_with_upwards_trend:  Stats
 **Overview**
