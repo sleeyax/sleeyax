@@ -12,7 +12,7 @@ If you'd like to **hire me** or if you're **looking for a partner** for your nex
 ### Present
 - [Stremio](https://www.stremio.com/) media player & content aggregator
   - Building a fresh mobile app for Android and iOS in Kotlin!
-- Secret project (by me and snkr friend) 😏
+- Secret project (by snkr friend and me) 😏
   - All in one Snapchat automation suite for OF marketing 
 
 ### Past
