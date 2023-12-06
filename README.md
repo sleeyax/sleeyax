@@ -30,9 +30,10 @@ If you'd like to **hire me** or if you're **looking for a partner** for your nex
 ## :wave: Socials
 You can reach out to me via one of the following channels: 
 - [Twitter](https://twitter.com/sleeyax)
+- [Telegram](https://t.me/sleeyax)
+- [Reddit](https://www.reddit.com/user/Sleeyax1)
 - [Email](mailto:yourd3veloper@gmail.com)
 - Discord: `sleeyax`
-- Telegram: `sleeyax`
 
 **Please email me if your inquiry is urgent.**
 
