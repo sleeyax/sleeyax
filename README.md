@@ -32,10 +32,9 @@ You can reach out to me via one of the following channels:
 - [Twitter](https://twitter.com/sleeyax)
 - [Telegram](https://t.me/sleeyax)
 - [Reddit](https://www.reddit.com/user/Sleeyax1)
-- [Email](mailto:yourd3veloper@gmail.com)
 - Discord: `sleeyax`
 
-**Please email me if your inquiry is urgent.**
+**Please [email me](mailto:yourd3veloper@gmail.com) if your inquiry is urgent.**
 
 ## :chart_with_upwards_trend:  Stats
 **Overview**
@@ -45,3 +44,5 @@ You can reach out to me via one of the following channels:
 **Trophies**
 
 [![trophies](https://github-profile-trophy.vercel.app/?username=sleeyax&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
+I'm also acitve on [GitLab](https://gitlab.com/sleeyax).
