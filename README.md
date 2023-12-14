@@ -36,6 +36,8 @@ You can reach out to me via one of the following channels:
 
 **Please [email me](mailto:yourd3veloper@gmail.com) if your inquiry is urgent.**
 
+*Do NOT contact me for personal support, feature requests, issues, suggestions etc. regarding any of my public GitHub repositories. Create an issue or start a discussion on the relevant repository instead.*
+
 ## :chart_with_upwards_trend:  Stats
 **Overview**
 
