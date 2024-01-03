@@ -16,7 +16,7 @@ If you'd like to **hire me** or if you're **looking for a partner** for your nex
   - All in one Snapchat automation suite for OF marketing 
 
 ### Past
-- [Pixl NFT marketplace](https://twitter.com/pixlso) (formerly known as flow.so and infinity.xyz) to trade digital assets on the ETH blockchain
+- [Pixl NFT marketplace](https://github.com/infinitydotxyz) (formerly known as flow.so and infinity.xyz) to trade digital assets on the ETH blockchain
 - [Cybersole](https://twitter.com/CyberSole) AIO (All In One) web automation software to automatically purchase online items (shoes, clothing, collectibles)
   - Wrote and maintained site modules
   - Reverse engineered all kinds of antibot and WAFs - including mobile versions
