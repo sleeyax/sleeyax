@@ -10,12 +10,12 @@ If you'd like to **hire me** or if you're **looking for a partner** for your nex
 ## 💻 Projects and Companies
 
 ### Present
-- [Stremio](https://www.stremio.com/) media player & content aggregator
-  - Building a fresh mobile app for Android and iOS in Kotlin!
-- Secret project (by snkr friend and me) 😏
-  - All in one Snapchat automation suite for OF marketing 
+- All in one Snapchat automation suite for OF marketing (by snkr friend and me) 😏
+- Open source development, stay tuned...
 
 ### Past
+- [Stremio](https://www.stremio.com/) media player & content aggregator
+  - Bootstrapped a fresh mobile app for Android and iOS using Kotlin & Compose
 - [Pixl NFT marketplace](https://github.com/infinitydotxyz) (formerly known as flow.so and infinity.xyz) to trade digital assets on the ETH blockchain
 - [Cybersole](https://twitter.com/CyberSole) AIO (All In One) web automation software to automatically purchase online items (shoes, clothing, collectibles)
   - Wrote and maintained site modules
