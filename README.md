@@ -13,8 +13,8 @@ I'm also active on [gitlab](https://gitlab.com/sleeyax).
 ## 💻 Projects and Companies
 
 ### Present
-- Open source development, stay tuned! 👀
-- All in one Snapchat automation suite for OF marketing (by snkr friend and me) 😏
+- Open source development, stay tuned and consider becoming a [sponsor](https://github.com/sponsors/sleeyax/)! 👀
+- All in one Snapchat automation suite for OF marketing (by snkr friend and me). 😏
 
 ### Past
 - [Stremio](https://www.stremio.com/) media player & content aggregator
