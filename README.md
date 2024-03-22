@@ -13,25 +13,25 @@ I'm also active on [gitlab](https://gitlab.com/sleeyax).
 ## 💻 Projects and Companies
 
 ### Present
-- Open source development, stay tuned and consider becoming a [sponsor](https://github.com/sponsors/sleeyax/)! 👀
+- 2024 -> ... : Open source development. See my latest projects below. Stay tuned and consider becoming a [sponsor](https://github.com/sponsors/sleeyax/)! 👀
 
 ### On hold
 Sometimes things don't go as planned.
-- All in one Snapchat automation suite for OF marketing (by snkr friend and me). 😏
+- 2024 -> ... : All in one Snapchat automation suite for OF marketing (by snkr friend and me). 😏
 
 ### Past
-- [Stremio](https://www.stremio.com/) media player & content aggregator
+- 2023: [Stremio](https://www.stremio.com/) media player & content aggregator
   - Bootstrapped a fresh mobile app for Android and iOS using Kotlin & Compose
-- [Pixl NFT marketplace](https://github.com/infinitydotxyz) (formerly known as flow.so and infinity.xyz) to trade digital assets on the ETH blockchain
-- [Cybersole](https://twitter.com/CyberSole) AIO (All In One) web automation software to automatically purchase online items (shoes, clothing, collectibles)
+- 2022: [Pixl NFT marketplace](https://github.com/infinitydotxyz) (formerly known as flow.so and infinity.xyz) to trade digital assets on the ETH blockchain
+- 2019 -> 2021: [Cybersole](https://twitter.com/CyberSole) AIO (All In One) web automation software to automatically purchase online items (shoes, clothing, collectibles)
   - Wrote and maintained site modules
   - Reverse engineered all kinds of antibot and WAFs - including mobile versions
-- [Ignite](https://twitter.com/lgnite) another AIO bot company 
+- 2019: [Ignite](https://twitter.com/lgnite) another AIO bot company 
   - Rewrote most of the codebase from JavaScript spaghetti code to a modular TypeScript codebase and migrated from plain CSS to SCSS modules
-- [Stremio Community](https://www.stremio.com/) media player & content aggregator
+- 2018 -> ... : [Stremio Community](https://www.stremio.com/) media player & content aggregator
   - Built plenty of [addons](https://github.com/sleeyax/stremio-addons) for the platform and moderated the [r/StremioAddons](https://www.reddit.com/r/stremioaddons) community
   - Built an [unofficial SDK](https://github.com/sleeyax/stremio-addon-sdk) in Rust
-- [Fiverr](https://www.fiverr.com/sleeyax) where it all began...
+- 2017-2018: [Fiverr](https://www.fiverr.com/sleeyax) where it all began...
 
 ## :wave: Socials
 You can reach out to me via one of the following channels: 
