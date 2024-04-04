@@ -14,10 +14,7 @@ I'm also active on [gitlab](https://gitlab.com/sleeyax).
 
 ### Present
 - 2024 -> ... : Open source development. See my latest projects below. Stay tuned and consider becoming a [sponsor](https://github.com/sponsors/sleeyax/)! 👀
-
-### On hold
-Sometimes things don't go as planned.
-- 2024 -> ... : All in one Snapchat automation suite for OF marketing (by snkr friend and me). 😏
+- July 2023 -> ... : All in one dating app automation suite for OF marketing (by snkr friends and me). 😏
 
 ### Past
 - 2023: [Stremio](https://www.stremio.com/) media player & content aggregator
