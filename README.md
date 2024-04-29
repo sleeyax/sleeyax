@@ -49,5 +49,3 @@ You can reach out to me via one of the following channels:
 **Trophies**
 
 [![trophies](https://github-profile-trophy.vercel.app/?username=sleeyax&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-
-I'm also active on [GitLab](https://gitlab.com/sleeyax).
