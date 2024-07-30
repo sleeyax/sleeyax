@@ -8,7 +8,7 @@ Besides my main occupation, I'm interested in other fields such as (but not limi
 
 If you'd like to **hire me** or if you're **looking for a partner** for your next project, check out [my socials](#Socials) and shoot me a DM.
 
-I'm also active on [gitlab](https://gitlab.com/sleeyax).
+I'm also active on [GitLab](https://gitlab.com/sleeyax).
 
 ## 💻 Projects and Companies
 
