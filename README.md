@@ -16,7 +16,7 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
 - 2024 -> ... : Open source development. See my latest projects below. Stay tuned and consider becoming a [sponsor](https://github.com/sponsors/sleeyax/)! 👀
 
 ### Past
-- July 2023 - July 2024: All in one dating app automation suite for OFM (feat. snkr friends).
+- July 2023 -> July 2024: All in one dating app automation suite for OFM (feat. snkr friends).
   - Autmation bot for snapchat
     - Built an attestaition token 'signer' emulator in Java/Kotlin
     - Reverse engineered compiled protocol buffers back to their original source `.proto` files
