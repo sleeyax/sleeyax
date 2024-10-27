@@ -19,14 +19,17 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
 - Open source development. See my latest projects below. Stay tuned and consider becoming a [sponsor](https://github.com/sponsors/sleeyax/)! 👀
 
 ### Past
-- July 2023 -> August 2024: All in one dating app automation suite for OFM (feat. snkr friends).
+- July 2023 -> ... : All in one dating app automation suite for OFM (feat. snkr friends).
   - Autmation bot for snapchat
     - Built an attestaition token 'signer' emulator in Java/Kotlin
     - Reverse engineered compiled protocol buffers back to their original source `.proto` files
     - Maintained a fully functional web app in C#
     - Gained devops experience deploying at scale to Microsoft Azure cloud platform
   - Automation bot for Tinder
-    - Built a fully functional CLI app in go
+    - Built a fully functional CLI app in go with varying success rates
+  - Automation bot for Bumble
+    - Improved an existing Bumble web bot to improve success rate
+    - Partially reverse engineered Bumble Mobile's wire format (unfinished due to other priorities)
 - 2023: [Stremio](https://www.stremio.com/) media player & content aggregator
   - Bootstrapped a fresh mobile app for Android and iOS using Kotlin & Compose
 - 2022: [Pixl NFT marketplace](https://github.com/infinitydotxyz) (formerly known as flow.so and infinity.xyz) to trade digital assets on the ETH blockchain
