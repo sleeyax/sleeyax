@@ -13,13 +13,13 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
 ## 💻 Projects and Companies
 
 ### Present
-- 2024-09 -> 2024-12: Built [leadiculous.io](https://leadiculous.io), a real-time B2C platform to help your business find new customers.
-  - Leadiculous monitors social media so you don't have to spend hours browsing Reddit, Twitter/X etc. in the hopes of finding someone who might be interested in your product or service.
-  - AI-filtered leads, AI crafted DMs, real-time notification & more goodies!
-  - Project paused due to shifted personal interests
 - Open source development. See my latest projects below. Stay tuned and consider becoming a [sponsor](https://github.com/sponsors/sleeyax/)! 👀
 
 ### Past
+- 2024-09 -> 2024-10: Built [leadiculous.io](https://leadiculous.io), a real-time B2C platform to help your business find new customers.
+  - Leadiculous monitors social media so you don't have to spend hours browsing Reddit, Twitter/X etc. in the hopes of finding someone who might be interested in your product or service.
+  - AI-filtered leads, AI crafted DMs, real-time notification & more goodies!
+  - Project discontinued due to shifted personal interests. More information [here](https://github.com/leadiculous/app/discussions/1).
 - July 2023 -> ... : All in one dating app automation suite for OFM (feat. snkr friends).
   - Autmation bot for snapchat
     - Built an attestaition token 'signer' emulator in Java/Kotlin
