@@ -14,6 +14,7 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
 
 ### Present
 - Open source development. See my latest projects below. Stay tuned and consider becoming a [sponsor](https://github.com/sponsors/sleeyax/)! 👀
+- Building an all in one dating app automation suite for OFM (feat. snkr friends). 
 
 ### Past
 - 2024-09 -> 2024-10: Built [leadiculous.io](https://leadiculous.io), a real-time B2C platform to help your business find new customers.
