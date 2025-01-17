@@ -14,6 +14,7 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
 
 ### Present
 - Open source development. See my latest projects below. Stay tuned and consider becoming a [sponsor](https://github.com/sponsors/sleeyax/)! 👀
+- Building a new [stremio-addons.com](https://stremio-addons.com)
 - Building an all in one dating app automation suite for OFM (feat. snkr friends). 
 
 ### Past
