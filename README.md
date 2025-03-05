@@ -18,6 +18,9 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
 - Open source development. See my latest projects below. Stay tuned and consider becoming a [sponsor](https://github.com/sponsors/sleeyax/)! 👀
 
 ### Past
+<details>
+  <summary>Click to expand</summary>
+  
 - 2024-09 -> 2024-10: Built [leadiculous.io](https://leadiculous.io), a real-time B2C platform to help your business find new customers.
   - Leadiculous monitors social media so you don't have to spend hours browsing Reddit, Twitter/X etc. in the hopes of finding someone who might be interested in your product or service.
   - AI-filtered leads, AI crafted DMs, real-time notification & more goodies!
@@ -45,6 +48,8 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
   - Built plenty of [addons](https://github.com/sleeyax/stremio-addons) for the platform and moderated the [r/StremioAddons](https://www.reddit.com/r/stremioaddons) community
   - Built an [unofficial SDK](https://github.com/sleeyax/stremio-addon-sdk) in Rust
 - 2017-2018: [Fiverr](https://www.fiverr.com/sleeyax) where it all began...
+
+</details>
 
 ## :wave: Socials
 You can reach out to me via one of the following channels: 
