@@ -58,7 +58,7 @@ You can reach out to me via one of the following channels:
 - [Reddit](https://www.reddit.com/user/Sleeyax1)
 - Discord: `sleeyax`
 
-**Please [email me](mailto:yourd3veloper@gmail.com) if your inquiry is urgent.**
+**Please [email me](mailto:sleeyax@gmail.com) if your inquiry is urgent.**
 
 *Do NOT contact me for personal support, feature requests, issues, suggestions etc. regarding any of my public GitHub repositories. Create an issue or start a discussion on the relevant repository instead.*
 
