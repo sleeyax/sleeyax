@@ -25,16 +25,17 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
   - Leadiculous monitors social media so you don't have to spend hours browsing Reddit, Twitter/X etc. in the hopes of finding someone who might be interested in your product or service.
   - AI-filtered leads, AI crafted DMs, real-time notification & more goodies!
   - Project discontinued due to shifted personal interests. More information [here](https://github.com/leadiculous/app/discussions/1).
-- July 2023 -> ... : All in one dating app automation suite for OFM (feat. snkr friends).
-  - Autmation bot for snapchat
+- June 2023 -> ... : All in one dating app automation suite for OFM (feat. snkr friends).
+  - 2023-06 -> 2024-03: Autmation bot for snapchat
     - Built an attestaition token 'signer' emulator in Java/Kotlin
     - Reverse engineered compiled protocol buffers back to their original source `.proto` files
     - Maintained a fully functional web app in C#
     - Gained devops experience deploying at scale to Microsoft Azure cloud platform
-  - Automation bot for Bumble
+    - Learned not to trust everyone by default
+  - 2023-10 -> 2023-12: Automation bot for Bumble
     - Improved an existing Bumble web bot to improve success rate
     - Partially reverse engineered Bumble Mobile's wire format (unfinished due to other priorities)
-  - Automation bot for Tinder
+  - 2024-03 -> ...: Automation bot for Tinder
     - Built a fully functional CLI app in go with varying success rates
 - 2023: [Stremio](https://www.stremio.com/) media player & content aggregator
   - Bootstrapped a fresh mobile app for Android and iOS using Kotlin & Compose
