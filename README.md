@@ -14,7 +14,6 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
 
 ### Present
 - Building [stremio-addons.net](https://beta.stremio-addons.net)
-- Building an all in one dating app automation suite for OFM (feat. snkr friends).
 - Open source development. See my latest projects below. Stay tuned and consider becoming a [sponsor](https://github.com/sponsors/sleeyax/)! 👀
 
 ### Past
@@ -25,7 +24,7 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
   - Leadiculous monitors social media so you don't have to spend hours browsing Reddit, Twitter/X etc. in the hopes of finding someone who might be interested in your product or service.
   - AI-filtered leads, AI crafted DMs, real-time notification & more goodies!
   - Project discontinued due to shifted personal interests. More information [here](https://github.com/leadiculous/app/discussions/1).
-- June 2023 -> ... : All in one dating app automation suite for OFM (feat. snkr friends).
+- 2023-06 -> 2025-03 : All in one dating app automation suite for OFM (feat. snkr friends).
   - 2023-06 -> 2024-03: Autmation bot for snapchat
     - Built an attestaition token 'signer' emulator in Java/Kotlin
     - Reverse engineered compiled protocol buffers back to their original source `.proto` files
@@ -35,7 +34,7 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
   - 2023-10 -> 2023-12: Automation bot for Bumble
     - Improved an existing Bumble web bot to improve success rate
     - Partially reverse engineered Bumble Mobile's wire format (unfinished due to other priorities)
-  - 2024-03 -> ...: Automation bot for Tinder
+  - 2024-03 -> 2025-03: Automation bot for Tinder
     - Built a fully functional CLI app in go with varying success rates
 - 2023: [Stremio](https://www.stremio.com/) media player & content aggregator
   - Bootstrapped a fresh mobile app for Android and iOS using Kotlin & Compose
