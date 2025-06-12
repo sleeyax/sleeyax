@@ -13,6 +13,7 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
 ## 💻 Projects and Companies
 
 ### Present
+- Building a [better mitmweb](https://x.com/sleeyax/status/1928931602375000206?t=DjdEORcCoGsEbxDN2y-VCQ&s=19) for mitmproxy
 - Building [stremio-addons.net](https://beta.stremio-addons.net)
 - Open source development. See my latest projects below. Stay tuned and consider becoming a [sponsor](https://github.com/sponsors/sleeyax/)! 👀
 
