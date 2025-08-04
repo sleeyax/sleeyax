@@ -14,13 +14,19 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
 
 ### Present
 - Building a [better mitmweb](https://x.com/sleeyax/status/1928931602375000206?t=DjdEORcCoGsEbxDN2y-VCQ&s=19) for mitmproxy
-- Building [stremio-addons.net](https://beta.stremio-addons.net)
+- Maintaining [stremio-addons.net](https://beta.stremio-addons.net)
 - Open source development. See my latest projects below. Stay tuned and consider becoming a [sponsor](https://github.com/sponsors/sleeyax/)! 👀
 
 ### Past
 <details>
   <summary>Click to expand</summary>
-  
+
+- 2025-08-01 -> 2025-08-03: Built and shipped [timeapi.world](https://timeapi.world) (a better [worldtimeapi.org](https://worldtimeapi.org) that is acccurate, frequently updated, and reliable for commercial use).
+- 2025-06: Started building a [better mitmweb](https://x.com/sleeyax/status/1928931602375000206?t=DjdEORcCoGsEbxDN2y-VCQ&s=19) for mitmproxy
+- 2025-05 -> 2025-06: Rewrote an old legacy PHP Laravel web application to nextjs to finally resolve the technical debt
+- 2025-04 -> 2025-05: Started building an open source feedback tool (development has been paused, to be picked up again at a later point in time)
+- 2024-12: Started building [stremio-addons.net](https://beta.stremio-addons.net)
+- 2024-10 -> 2024-11: Built and published [x-bot-sweeper](https://github.com/sleeyax/x-bot-sweeper) - a free and open source Chrome extension that removes fake followers from your X (formerly Twitter) account
 - 2024-09 -> 2024-10: Built [leadiculous.io](https://github.com/orgs/leadiculous/repositories?type=source), a real-time B2C platform to help your business find new customers.
   - Leadiculous monitors social media so you don't have to spend hours browsing Reddit, Twitter/X etc. in the hopes of finding someone who might be interested in your product or service.
   - AI-filtered leads, AI crafted DMs, real-time notification & more goodies!
