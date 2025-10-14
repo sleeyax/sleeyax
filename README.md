@@ -21,6 +21,7 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
 <details>
   <summary>Click to expand</summary>
 
+- 2025-09: Started publishing several APIs to the [RapidAPI platform](https://rapidapi.com/user/sleeyax).
 - 2025-08-01 -> 2025-08-03: Built and shipped [timeapi.world](https://timeapi.world) (a better [worldtimeapi.org](https://worldtimeapi.org) that is acccurate, frequently updated, and reliable for commercial use).
 - 2025-06: Started building a [better mitmweb](https://x.com/sleeyax/status/1928931602375000206?t=DjdEORcCoGsEbxDN2y-VCQ&s=19) for mitmproxy
 - 2025-05 -> 2025-06: Rewrote an old legacy PHP Laravel web application to nextjs to finally resolve the technical debt
