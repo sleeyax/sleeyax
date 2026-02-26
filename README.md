@@ -69,12 +69,3 @@ You can reach out to me via one of the following channels:
 **Please [email me](mailto:sleeyax@gmail.com) if your inquiry is urgent.**
 
 *Do NOT contact me for personal support, feature requests, issues, suggestions etc. regarding any of my public GitHub repositories. Create an issue or start a discussion on the relevant repository instead.*
-
-## :chart_with_upwards_trend:  Stats
-**Overview**
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=sleeyax&count_private=true&show_icons=true&hide_title=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-**Trophies**
-
-[![trophies](https://github-profile-trophy.vercel.app/?username=sleeyax&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
