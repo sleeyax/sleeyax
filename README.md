@@ -2,9 +2,9 @@
 > **Don't fall victim to impersonation attempts. Verify my identity [here](https://gist.github.com/sleeyax/9a11e158f3313826eb75ace6afee23d2).**
 
 ## :question: About Me
-I'm a Full Stack Software Engineer who loves to both break and build the web. Ever since I started programming I've had a particular interest in web scraping, automation, bots and security for which I've grown an expertise. The other side of me loves to develop web applications, always contemplating the most optimal solution.
+I'm a Full Stack Software Engineer who loves to both break and build the web. Ever since I started programming I've had a particular interest in web scraping, automation, bots and security for which I've grown an expertise. The other side of me loves to develop web applications.
 
-Besides my main occupation, I'm interested in other fields such as (but not limited to) cross-platform mobile app development, reverse engineering, GNU/Linux, Containers, DevOps and cloud.
+Besides my main occupation, I'm interested in other fields such as (but not limited to) cross-platform mobile app development, reverse engineering, GNU/Linux, Containers, DevOps and cloud native computing.
 
 If you'd like to **hire me** or if you're **looking for a partner** for your next project, check out [my socials](#Socials) and shoot me a DM.
 
@@ -15,7 +15,7 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
 ### Present
 - Building a [better mitmweb](https://x.com/sleeyax/status/1928931602375000206?t=DjdEORcCoGsEbxDN2y-VCQ&s=19) for mitmproxy (paused until further notice)
 - Building [stremio-addons.net](https://beta.stremio-addons.net)
-- Open source development. See my latest projects below. Stay tuned and consider becoming a [sponsor](https://github.com/sponsors/sleeyax/)! 👀
+- Open source development. Stay tuned and consider becoming a [sponsor](https://github.com/sponsors/sleeyax/)! 👀
 
 ### Past
 <details>
