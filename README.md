@@ -24,7 +24,7 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
 - 2025-11 -> ...: building Polymarket tooling for personal use and experimentation
   - Trading terminal: better web UI showcasing the available markets
   - Trading bot: automatically trades on the platform using custom trading strategies (built with Rust for speed)
-  - AI market outcome predictions: chatbot-like web UI to perform deep searches for market automated analysis and report generation
+  - AI market outcome predictions: chatbot-like web UI to perform deep searches, automated analysis and report generation
 - 2025-10: Built a [Community Stremio Addon SDK](https://github.com/Stremio-Community/stremio-addon-sdk)
 - 2025-09: Started publishing several APIs to the [RapidAPI platform](https://rapidapi.com/user/sleeyax).
 - 2025-08-01 -> 2025-08-03: Built and shipped [timeapi.world](https://timeapi.world) (a better [worldtimeapi.org](https://worldtimeapi.org) that is acccurate, frequently updated, and reliable for commercial use).
