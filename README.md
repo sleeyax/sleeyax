@@ -21,6 +21,11 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
 <details>
   <summary>Click to expand</summary>
 
+- 2025-11 -> ...: building Polymarket tooling for personal use and experimentation
+  - Trading terminal: better web UI showcasing the available markets
+  - Trading bot: automatically trades on the platform using custom trading strategies (built with Rust for speed)
+  - AI market outcome predictions: chatbot-like web UI to perform deep searches for market automated analysis and report generation
+- 2025-10: Built a [Community Stremio Addon SDK](https://github.com/Stremio-Community/stremio-addon-sdk)
 - 2025-09: Started publishing several APIs to the [RapidAPI platform](https://rapidapi.com/user/sleeyax).
 - 2025-08-01 -> 2025-08-03: Built and shipped [timeapi.world](https://timeapi.world) (a better [worldtimeapi.org](https://worldtimeapi.org) that is acccurate, frequently updated, and reliable for commercial use).
 - 2025-06: Started building a [better mitmweb](https://x.com/sleeyax/status/1928931602375000206?t=DjdEORcCoGsEbxDN2y-VCQ&s=19) for mitmproxy
@@ -32,7 +37,7 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
   - Leadiculous monitors social media so you don't have to spend hours browsing Reddit, Twitter/X etc. in the hopes of finding someone who might be interested in your product or service.
   - AI-filtered leads, AI crafted DMs, real-time notification & more goodies!
   - Project discontinued due to shifted personal interests. More information [here](https://github.com/leadiculous/app/discussions/1).
-- 2023-06 -> 2025-03 : All in one dating app automation suite for OFM (feat. snkr friends).
+- Dating app automation tools for OFM (feat. snkr friends).
   - 2023-06 -> 2024-03: Autmation bot for snapchat
     - Built an attestaition token 'signer' emulator in Java/Kotlin
     - Reverse engineered compiled protocol buffers back to their original source `.proto` files
@@ -44,6 +49,7 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
     - Partially reverse engineered Bumble Mobile's wire format (unfinished due to other priorities)
   - 2024-03 -> 2025-03: Automation bot for Tinder
     - Built a fully functional CLI app in go with varying success rates
+  - 2025-09 -> 2025-12: Automation bot for Instagram
 - 2023: [Stremio](https://www.stremio.com/) media player & content aggregator
   - Bootstrapped a fresh mobile app for Android and iOS using Kotlin & Compose
 - 2022: [Pixl NFT marketplace](https://github.com/infinitydotxyz) (formerly known as flow.so and infinity.xyz) to trade digital assets on the ETH blockchain
