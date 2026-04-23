@@ -20,7 +20,8 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
 ### Past
 <details>
   <summary>Click to expand</summary>
-- 2025-11 -> ...: building Polymarket tooling for personal use and experimentation
+  
+- 2025-11 -> ... : building Polymarket tooling for personal use and experimentation
   - Trading terminal: better web UI showcasing the available markets
   - Trading bot: automatically trades on the platform using custom trading strategies (built with Rust for speed)
   - AI market outcome predictions: chatbot-like web UI to perform deep searches, automated analysis and report generation
