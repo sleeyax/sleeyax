@@ -1,6 +1,3 @@
-> [!NOTE]  
-> **Don't fall victim to impersonation attempts. Verify my identity [here](https://gist.github.com/sleeyax/9a11e158f3313826eb75ace6afee23d2).**
-
 ## :question: About Me
 I'm a Full Stack Software Engineer who loves to both break and build the web. Ever since I started programming I've had a particular interest in web scraping, automation, bots and security for which I've grown an expertise. The other side of me loves to develop web applications.
 
