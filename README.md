@@ -46,7 +46,7 @@ I'm also active on [GitLab](https://gitlab.com/sleeyax).
     - Partially reverse engineered Bumble Mobile's wire format (unfinished due to other priorities)
   - 2024-03 -> 2025-03: Automation bot for Tinder
     - Built a fully functional CLI app in go with varying success rates
-  - 2025-09 -> ...: Automation bot for Instagram
+  - 2025-09 -> 2026-05: Automation bot for Instagram
 - 2023: [Stremio](https://www.stremio.com/) media player & content aggregator
   - Bootstrapped a fresh mobile app for Android and iOS using Kotlin & Compose
 - 2022: [Pixl NFT marketplace](https://github.com/infinitydotxyz) (formerly known as flow.so and infinity.xyz) to trade digital assets on the ETH blockchain
