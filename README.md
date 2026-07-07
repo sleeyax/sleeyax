@@ -1,5 +1,5 @@
 ## :question: About Me
-I'm a Full Stack Software Engineer who loves to both break and build the web. Ever since I started programming I've had a particular interest in web scraping, automation, bots and security for which I've grown an expertise.
+I'm a Full Stack Software Engineer who loves to build and break the web. Ever since I started programming I've had a particular interest in web scraping, automation, bots and security for which I've grown an expertise.
 
 Besides my main occupation as a full stack web developer, I'm interested in a wide range of other fields such as (but not limited to) cross-platform mobile app development, reverse engineering, GNU/Linux, Containers, DevOps and cloud native computing.
 
