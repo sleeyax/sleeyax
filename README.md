@@ -1,7 +1,9 @@
 ## :question: About Me
 I'm a Full Stack Software Engineer who loves to build and break the web. Ever since I started programming I've had a particular interest in web scraping, automation, bots and security for which I've grown an expertise.
 
-Besides my main occupation as a full stack web developer, I'm interested in a wide range of other fields such as (but not limited to) reverse engineering, GNU/Linux, Containers, DevOps and cloud native computing. I'm an AI-positive developer passionate about designing and optimizing workflows that leverage AI agents effectively and efficiently.
+Besides my main occupation as a full stack web developer, I'm interested in a wide range of other fields such as (but not limited to) reverse engineering, GNU/Linux, Containers, DevOps and cloud native computing. 
+
+I'm an AI-positive developer passionate about designing and optimizing workflows that leverage AI agents effectively and efficiently.
 
 If you'd like to **hire me** or if you're **looking for a partner** for your next project, check out [my socials](#Socials) and shoot me a DM.
 
